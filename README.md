@@ -7,7 +7,7 @@ This repository supplements the manuscript **Multimodal Foundation Transformer M
 
 ### Purpose
 - **Adaptation of Transformer Models:**  
-  Originally developed for natural language processing, Transformer models are repurposed here to analyze complex genomic datasets.
+  Originally developed for natural language processing, Transformer models have been repurposed here to analyze complex genomic datasets.
 - **Key Applications:**  
   - **Predicting RNA Expression:** Inferring RNA expression levels from DNA sequences.
   - **Classifying Promoter Regions:** Distinguishing promoter regions in DNA.
@@ -60,7 +60,7 @@ Before diving into the  tutorials, ensure that the necessary packages are instal
 All necessary data files and detailed instructions are provided within the notebook to ensure you can easily follow along and apply the concepts demonstrated in the tutorials.
 
 ## Tutorials
-For a practical application of Transformers, refer to these hands-on tutorials available via Google Colab:
+Explore practical applications of Transformers through these hands-on tutorials available via Google Colab:
 
 - **Transformers for MultiOmics – Predicting RNA Expression from DNA Sequences:**  
   Demonstrates how to predict RNA expression levels from DNA sequences.  

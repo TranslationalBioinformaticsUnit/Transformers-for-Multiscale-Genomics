@@ -1,6 +1,6 @@
 # Multimodal Foundation Transformer Models for Multiscale Genomics
 
-![Schematic](https:<img width="1379" alt="schematic" src="https://github.com/user-attachments/assets/161a261c-20b3-4a69-84f9-c69e5acbbf40" />
+[](https:<img width="1379" alt="schematic" src="https://github.com/user-attachments/assets/161a261c-20b3-4a69-84f9-c69e5acbbf40" />
 
 
 This repository supplements the manuscript **Multimodal Foundation Transformer Models for Multiscale Genomics**. It is designed to introduce the application of Transformer models in the analysis of single-cell genomics data, particularly for cell type annotation.

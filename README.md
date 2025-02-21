@@ -43,7 +43,7 @@ For a practical application of these concepts, refer to the tutorials available 
 
 - Transformers in MultiOmics - Predicting RNA Expression from DNA Sequences
 This primer illustrates how to use Transformer models to predict RNA expression levels from DNA sequences, demonstrating the model's capability to understand the interactions between nucleotides in promoter regions.
-- [A Primer on Transformers in   - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
+  -- [A Primer on Transformers in Multi - Omics  - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
 
 
 [MultiOmics Primer Notebook: A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)

@@ -43,21 +43,21 @@ For a practical application of these concepts, refer to the tutorials available 
 
 - Transformers in MultiOmics - Predicting RNA Expression from DNA Sequences
 This primer illustrates how to use Transformer models to predict RNA expression levels from DNA sequences, demonstrating the model's capability to understand the interactions between nucleotides in promoter regions.
-[MultiOmics Primer Notebook](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
+[MultiOmics Primer Notebook ; A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
 
 - Transformers in DNA Primer - Classifying Promoter Regions
 This primer discusses using Transformer models to classify promoter regions in DNA sequences. It includes discussions on integrating synthetic and real data to capture essential sequence patterns and positional dependencies.
-[DNA Primer Notebook](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
+[DNA Primer Notebook:A Primer on Transformers for Predicting Whether a DNA Sequence is a Promoter](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
 
 - Transformers in Single-Cell Genomics (scRNA-Seq) Primer - Classifying Cell Types in scRNA-seq Data
 This primer discusses the application of Transformer models in identifying different cell types from single-cell RNA sequencing data, emphasizing complex gene expression patterns.
-[scRNA Primer Notebook](https://colab.research.google.com/drive/1yDKEFXLIr884JeBDQMHWYthpa-u8k3q9)
+[scRNA Primer Notebook: A Primer on Transformers in Single-Cell RNA Sequencing(scRNA-seq](https://colab.research.google.com/drive/1yDKEFXLIr884JeBDQMHWYthpa-u8k3q9)
 
--Transformers in Spatial Transcriptomics Primer - Classifying Cell Types in Spatial Transcriptomics Data
+- Transformers in Spatial   Primer - Classifying Cell Types in Spatial Transcriptomics Data
 This primer shows how Transformer model can be used to annotate cell types in spatial transcriptomics data, integrating gene expression profiles with spatial coordinates for enhanced analysis.
-[Spatial Transcriptomics Primer Notebook](https://colab.research.google.com/drive/13kax9iVi4uI6sh3ciXL9HxLl_RNtBcmy)
+[Spatial Transcriptomics Primer Notebook: A Primer on Transformers in Spatial Transcriptomics](https://colab.research.google.com/drive/13kax9iVi4uI6sh3ciXL9HxLl_RNtBcmy)
 
-- [A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
+- [A Primer on Transformers in   - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
 - [A Primer on Transformers for Predicting Whether a DNA Sequence is a Gene Promoter](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
 - [A Primer on Transformers in Single-Cell RNA Sequencing (scRNA-seq)](https://colab.research.google.com/drive/1yDKEFXLIr884JeBDQMHWYthpa-u8k3q9)
 - [A Primer on Transformers in Spatial Transcriptomics](https://colab.research.google.com/drive/13kax9iVi4uI6sh3ciXL9HxLl_RNtBcmy)

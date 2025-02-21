@@ -46,7 +46,7 @@ This primer illustrates how to use Transformer models to predict RNA expression 
 - [A Primer on Transformers in   - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
 
 
-[MultiOmics Primer Notebook ; A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
+[MultiOmics Primer Notebook: A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
 
 - Transformers in DNA Primer - Classifying Promoter Regions
 This primer discusses using Transformer models to classify promoter regions in DNA sequences. It includes discussions on integrating synthetic and real data to capture essential sequence patterns and positional dependencies.

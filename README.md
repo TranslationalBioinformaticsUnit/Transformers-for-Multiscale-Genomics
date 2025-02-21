@@ -41,7 +41,7 @@ Transformer models have revolutionized natural language processing by effectivel
   - Familiarity with tools such as [Scanpy](https://scanpy.readthedocs.io/en/stable/) and [Anndata](https://anndata.readthedocs.io/en/latest/).
 
 ## Installation Guide
-Before diving into the  tutorials, ensure that the necessary packages are installed. We will need `Scanpy` and `Squidpy` for RNA-seq and Spatial Transcriptomics analyisis and `Transformers` from Hugging Face for our Transformer models. Use the following commands to install these packages:
+Before diving into the  tutorials, ensure that the necessary packages are installed. We will need `Scanpy` and `Squidpy` for RNA-seq and Spatial Transcriptomics analysis and `Transformers` from Hugging Face for our Transformer models. Use the following commands to install these packages:
 
 ### Required Packages
 - **Scanpy & Squidpy:**  
@@ -92,8 +92,8 @@ These tutorials and associated tools are designed to be platform-independent and
 
 
 - **Local Environments**:
-  - **Linux**: Tested on macOS Sonoma (14.5). Ensure you have Python installed, along with pip for package management.
-  - **macOS**: Tested on Ubuntu 20.04 with similar requirements as Linux.
+  - **Linux**: Tested on  Ubuntu 20.04 . Ensure you have Python installed, along with pip for package management.
+  - **macOS**: Tested on macOS Sonoma (14.6) with similar requirements as Linux.
  
 
 Feel free to explore the notebooks, experiment with the code, and dive deeper into applying Transformer models in genomics!

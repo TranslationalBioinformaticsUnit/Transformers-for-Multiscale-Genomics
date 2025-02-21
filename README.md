@@ -96,20 +96,15 @@ These tutorials and associated tools are designed to be platform-independent and
   - [A Primer on Transformers in Single-Cell RNA Sequencing (scRNA-seq)](https://colab.research.google.com/drive/1yDKEFXLIr884JeBDQMHWYthpa-u8k3q9)
   - [A Primer on Transformers in Spatial Transcriptomics](https://colab.research.google.com/drive/13kax9iVi4uI6sh3ciXL9HxLl_RNtBcmy)
 
-- **Local Environments**:  
-  These tutorials are also compatible with local setups on various operating systems, such as:
-  - **Linux** (e.g., Ubuntu 20.04)
-  - **macOS** (e.g., macOS Sonoma 14.5)
-
-  Ensure you have Python and pip installed to run the notebooks locally.
-
-Feel free to explore the notebooks, experiment with the code, and dive deeper into applying Transformer models in genomics!
-
 
 - **Local Environments**:
   - **Linux**: Tested on macOS Sonoma (14.5). Ensure you have Python installed, along with pip for package management.
   - **macOS**: Tested on Ubuntu 20.04 with similar requirements as Linux.
  
+
+Feel free to explore the notebooks, experiment with the code, and dive deeper into applying Transformer models in genomics!
+
+
     
 
 Feel free to explore the notebook, experiment with the code, and dive deeper into the application of Transformers in genomics!

@@ -38,7 +38,8 @@ All necessary data files and detailed instructions are provided within the noteb
 
 ## Tutorials
 For a practical application of these concepts, refer to the tutorials available as:
-- [A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences (promoter regions (https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
+- [A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences (promoter regions)
+  (https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
 
 
 

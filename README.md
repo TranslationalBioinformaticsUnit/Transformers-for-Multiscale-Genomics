@@ -47,13 +47,13 @@ Before diving into the  tutorials, ensure that the necessary packages are instal
 - **Scanpy & Squidpy:**  
   Used for RNA-seq and spatial transcriptomics analysis.
   ```bash
-  !pip install scanpy
-  !pip install squidpy
+  pip install scanpy
+  pip install squidpy
 
 
 - To install **Transformers**, use this command in a notebook cell:
   ```python
-  !pip install transformers
+  pip install transformers
 
 
 ## Data

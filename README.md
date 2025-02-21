@@ -60,7 +60,7 @@ Before diving into the  tutorials, ensure that the necessary packages are instal
 All necessary data files and detailed instructions are provided within the notebook to ensure you can easily follow along and apply the concepts demonstrated in the tutorials.
 
 ## Tutorials
-For a practical application of Transformers, refer to these tutorials available as:
+For a practical application of Transformers, refer to these hands-on tutorials available via Google Colab:
 
 - **Transformers for MultiOmics – Predicting RNA Expression from DNA Sequences:**  
   Demonstrates how to predict RNA expression levels from DNA sequences.  

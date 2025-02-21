@@ -85,6 +85,27 @@ These tutorials and the associated tools are designed to be platform-independent
 
 - **Google Colab**: For a hassle-free setup and no local system requirements, you can run the notebook directly in [Google Colab](https://colab.research.google.com/github/sumeer1/A-Primer-on-Transformers-in-Single-Cell-Genomics/blob/main/A%20Primer%20on%20Transformers%20for%20Cell%20Type%20Annotation.ipynb). This platform automatically handles all dependencies and provides a robust environment with GPU support.
 
+## System Requirements
+
+These tutorials and associated tools are designed to be platform-independent and can be run on a variety of systems. Below are the specifics regarding system compatibility and access to all the notebooks:
+
+- **Google Colab**:  
+  For a hassle-free setup with no local system requirements, you can run the notebooks directly in Google Colab Google Colab automatically handles all dependencies and provides GPU support. You can access all the tutorials through the following links:
+  - [A Primer on Transformers in Multi-Omics – Predict gene expression from DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
+  - [A Primer on Transformers for Predicting Whether a DNA Sequence is a Gene Promoter](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
+  - [A Primer on Transformers in Single-Cell RNA Sequencing (scRNA-seq)](https://colab.research.google.com/drive/1yDKEFXLIr884JeBDQMHWYthpa-u8k3q9)
+  - [A Primer on Transformers in Spatial Transcriptomics](https://colab.research.google.com/drive/13kax9iVi4uI6sh3ciXL9HxLl_RNtBcmy)
+
+- **Local Environments**:  
+  These tutorials are also compatible with local setups on various operating systems, such as:
+  - **Linux** (e.g., Ubuntu 20.04)
+  - **macOS** (e.g., macOS Sonoma 14.5)
+
+  Ensure you have Python and pip installed to run the notebooks locally.
+
+Feel free to explore the notebooks, experiment with the code, and dive deeper into applying Transformer models in genomics!
+
+
 - **Local Environments**:
   - **Linux**: Tested on macOS Sonoma (14.5). Ensure you have Python installed, along with pip for package management.
   - **macOS**: Tested on Ubuntu 20.04 with similar requirements as Linux.

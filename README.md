@@ -64,7 +64,7 @@ Explore practical applications of Transformers through these hands-on tutorials 
 
 - **Transformers for MultiOmics – Predicting RNA Expression from DNA Sequences:**  
   Demonstrates how to predict RNA expression levels from DNA sequences.  
-  [A Primer on Transformers in Multi-Omics – Predict gene expression from DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
+  [A Primer on Transformers in Multi-Omics – Predicting gene expression from DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
 
 - **Transformers for DNA – Classifying Promoter Regions:**  
   Focuses on classifying promoter regions in DNA sequences using a Transformer model.  
@@ -85,7 +85,7 @@ These tutorials and associated tools are designed to be platform-independent and
 
 - **Google Colab**:  
   For a hassle-free setup with no local system requirements, you can run the notebooks directly in Google Colab. Google Colab automatically handles all dependencies and provides GPU support. You can access all the tutorials through the following links:
-  - [A Primer on Transformers in Multi-Omics – Predict gene expression from DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
+  - [A Primer on Transformers in Multi-Omics – Predicting gene expression from DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
   - [A Primer on Transformers for Predicting Whether a DNA Sequence is a Gene Promoter](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
   - [A Primer on Transformers in Single-Cell RNA Sequencing (scRNA-seq)](https://colab.research.google.com/drive/1yDKEFXLIr884JeBDQMHWYthpa-u8k3q9)
   - [A Primer on Transformers in Spatial Transcriptomics](https://colab.research.google.com/drive/13kax9iVi4uI6sh3ciXL9HxLl_RNtBcmy)

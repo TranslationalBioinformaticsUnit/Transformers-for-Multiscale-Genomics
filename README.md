@@ -1,6 +1,7 @@
 # Multimodal Foundation Transformer Models for Multiscale Genomics
 
-![Schematic](https://github.com/sumeer1/A-Primer-on-Transformers-in-Single-Cell-Genomics/assets/70262340/f799ee26-b884-422d-8000-8fac5a2872e9)
+![Schematic](https:<img width="1379" alt="schematic" src="https://github.com/user-attachments/assets/161a261c-20b3-4a69-84f9-c69e5acbbf40" />
+
 
 This repository supplements the manuscript **A Primer on Transformers in Single-Cell Genomics**. It is designed to introduce the application of Transformer models in the analysis of single-cell genomics data, particularly for cell type annotation.
 

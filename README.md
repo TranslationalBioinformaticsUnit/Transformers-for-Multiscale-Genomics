@@ -99,6 +99,4 @@ These tutorials and associated tools are designed to be platform-independent and
 Feel free to explore the notebooks, experiment with the code, and dive deeper into applying Transformer models in genomics!
 
 
-    
 
-Feel free to explore the notebook, experiment with the code, and dive deeper into the application of Transformers in genomics!

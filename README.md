@@ -38,10 +38,10 @@ All necessary data files and detailed instructions are provided within the noteb
 
 ## Tutorials
 For a practical application of these concepts, refer to the tutorials available as:
-- [A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences (promoter regions)]
-  (https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
-- [A Primer on Transformers for Predicting Whether a DNA Sequence is a Gene Promoter]
-  (https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd?authuser=1#scrollTo=jTPqm70hUinF)
+- [A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences](https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s)
+- [A Primer on Transformers for Predicting Whether a DNA Sequence is a Gene Promoter](https://colab.research.google.com/drive/1YX_uO73lr8uENXLLj57cMHn796PtAoVd)
+- [A Primer on Transformers in Single-Cell RNA Sequencing (scRNA-seq)](https://colab.research.google.com/drive/1yDKEFXLIr884JeBDQMHWYthpa-u8k3q9)
+- [A Primer on Transformers in Spatial Transcriptomics](https://colab.research.google.com/drive/13kax9iVi4uI6sh3ciXL9HxLl_RNtBcmy)
 
 
 ## System Requirements

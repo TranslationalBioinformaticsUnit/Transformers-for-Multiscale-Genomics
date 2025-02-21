@@ -3,7 +3,7 @@
 ![Schematic](https:<img width="1379" alt="schematic" src="https://github.com/user-attachments/assets/161a261c-20b3-4a69-84f9-c69e5acbbf40" />
 
 
-This repository supplements the manuscript **A Primer on Transformers in Single-Cell Genomics**. It is designed to introduce the application of Transformer models in the analysis of single-cell genomics data, particularly for cell type annotation.
+This repository supplements the manuscript **Multimodal Foundation Transformer Models for Multiscale Genomics**. It is designed to introduce the application of Transformer models in the analysis of single-cell genomics data, particularly for cell type annotation.
 
 ## Background
 Transformers, originally developed for tasks in natural language processing (NLP), have shown remarkable adaptability and success in analyzing complex patterns in high-dimensional biological datasets, such as single-cell RNA sequencing (scRNA-seq). By leveraging Transformers, researchers can effectively manage the sequential and intricate nature of biological data, which is pivotal for capturing essential dependencies and patterns crucial for precise cell type annotation.

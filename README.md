@@ -36,9 +36,11 @@ Before diving into the  tutorial, ensure that the necessary packages are install
 ## Data
 All necessary data files and detailed instructions are provided within the notebook to ensure you can easily follow along and apply the concepts demonstrated in the tutorial.
 
-## Tutorial
-For a practical application of these concepts, refer to the tutorial available as:
-- [A Primer on Transformers in Single-Cell Genomics](https://colab.research.google.com/drive/14tMvT82icSNRZZKN-Z2BKGIRH5-RCMpK#scrollTo=BBhBkJffYg_b)
+## Tutorials
+For a practical application of these concepts, refer to the tutorials available as:
+- [A Primer on Transformers in MultiOmics - Predict gene expression (RNA) levels from corresponding DNA sequences (promoter regions)]([https://colab.research.google.com/drive/16VxwUb3TQXulSGDdBW8gHG4elp8Rs92s])
+
+
 
 ## System Requirements
 
